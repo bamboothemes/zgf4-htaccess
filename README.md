@@ -1,7 +1,7 @@
-zgf4-htaccess
+zgf-htaccess
 =============
 
-Repo for the htaccess file used for Zen Grid Framework v4 themes.
+Repo for the htaccess file used for Zen Grid Framework themes (It can be used with any Joomla website).
 
 The htaccess file is a collection of htaccess rules easily found with some google searches. Initially published by Rob Went for Joomlapure.
 
